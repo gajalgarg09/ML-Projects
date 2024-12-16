@@ -9,7 +9,7 @@ It contains:
 208 samples (rows) <br>
 60 features (columns), representing sonar signal strength at different frequencies.  <br>
 1 target column, where:  <br>
-Rock: The object is a rock.  <br>
-Mine: The object is a metallic mine.
+Rock -> The object is a rock.  <br>
+Mine -> The object is a metallic mine.
 
 
